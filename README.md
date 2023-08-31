@@ -1,4 +1,4 @@
-nmp i & npm start
+NPM I & NPM INSTALL
 
 # Getting Started with Create React App
 
